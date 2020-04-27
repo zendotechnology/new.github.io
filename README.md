@@ -1,2 +1,2 @@
 website
-new.github.io
+zendo2020.github.io
