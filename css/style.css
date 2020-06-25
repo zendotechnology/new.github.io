@@ -213,7 +213,7 @@ nav a:focus {
 	width: 60%;
 	position: absolute;
 	top: 5%;
-	left: 2%;
+	right: 2%;
 	text-align:center;
 }
 .caption h3{
