@@ -450,7 +450,7 @@ i.star {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
-	width: 50%;
+	width: 100%;
 	display:none;
 	float:left;
 	overflow:hidden;
